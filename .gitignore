@@ -1,0 +1,7 @@
+node_modules
+contracts/artifacts
+build
+package.json
+package-lock.json
+eth_accounts
+.DS_Store
